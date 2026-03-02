@@ -8,6 +8,7 @@ Classmate is a personal project I built independently from the ground up. As a s
 Classmate combines intelligent scheduling, syllabus parsing, and grade prediction into a single app that acts more like a study assistant than a planner.
 
 🆚 Why Not Just Use a Calendar App?
+
 Calendar apps record what you tell them. Classmate figures out what you should be doing.
 Here's what sets it apart:
 
