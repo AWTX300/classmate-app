@@ -10,11 +10,17 @@ Classmate combines intelligent scheduling, syllabus parsing, and grade predictio
 🆚 Why Not Just Use a Calendar App?
 Calendar apps record what you tell them. Classmate figures out what you should be doing.
 Here's what sets it apart:
+
 ✅ Syllabus auto-import — Upload a syllabus and all assignments are scheduled for you. No manual entry.
+
 ✅ AI study block suggestions — Classmate analyzes your class times, work shifts, and deadlines to recommend when to study, not just what to study.
+
 ✅ Grade prediction — Log your grades as you go and Classmate models your projected final grade, alerting you before it's too late to course-correct.
+
 ✅ Study group coordination — Find overlapping free time across multiple students' schedules automatically and create shared study sessions in-app.
+
 ✅ Conflict detection — Classmate spots scheduling conflicts across your coursework, work, and personal time — before they catch you off guard.
+
 ✅ Deadline urgency ranking — Tasks aren't just listed; they're ranked by urgency so the most critical work always surfaces to the top.
 
 A calendar tells you what's happening. Classmate tells you what to do next.
